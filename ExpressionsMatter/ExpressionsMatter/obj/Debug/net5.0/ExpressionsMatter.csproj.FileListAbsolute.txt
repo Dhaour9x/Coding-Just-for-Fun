@@ -1,0 +1,16 @@
+C:\Users\dhaoui\Documents\Csharp\riadh-project\ExpressionsMatter\ExpressionsMatter\bin\Debug\net5.0\ExpressionsMatter.exe
+C:\Users\dhaoui\Documents\Csharp\riadh-project\ExpressionsMatter\ExpressionsMatter\bin\Debug\net5.0\ExpressionsMatter.deps.json
+C:\Users\dhaoui\Documents\Csharp\riadh-project\ExpressionsMatter\ExpressionsMatter\bin\Debug\net5.0\ExpressionsMatter.runtimeconfig.json
+C:\Users\dhaoui\Documents\Csharp\riadh-project\ExpressionsMatter\ExpressionsMatter\bin\Debug\net5.0\ExpressionsMatter.runtimeconfig.dev.json
+C:\Users\dhaoui\Documents\Csharp\riadh-project\ExpressionsMatter\ExpressionsMatter\bin\Debug\net5.0\ExpressionsMatter.dll
+C:\Users\dhaoui\Documents\Csharp\riadh-project\ExpressionsMatter\ExpressionsMatter\bin\Debug\net5.0\ref\ExpressionsMatter.dll
+C:\Users\dhaoui\Documents\Csharp\riadh-project\ExpressionsMatter\ExpressionsMatter\bin\Debug\net5.0\ExpressionsMatter.pdb
+C:\Users\dhaoui\Documents\Csharp\riadh-project\ExpressionsMatter\ExpressionsMatter\obj\Debug\net5.0\ExpressionsMatter.csprojAssemblyReference.cache
+C:\Users\dhaoui\Documents\Csharp\riadh-project\ExpressionsMatter\ExpressionsMatter\obj\Debug\net5.0\ExpressionsMatter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dhaoui\Documents\Csharp\riadh-project\ExpressionsMatter\ExpressionsMatter\obj\Debug\net5.0\ExpressionsMatter.AssemblyInfoInputs.cache
+C:\Users\dhaoui\Documents\Csharp\riadh-project\ExpressionsMatter\ExpressionsMatter\obj\Debug\net5.0\ExpressionsMatter.AssemblyInfo.cs
+C:\Users\dhaoui\Documents\Csharp\riadh-project\ExpressionsMatter\ExpressionsMatter\obj\Debug\net5.0\ExpressionsMatter.csproj.CoreCompileInputs.cache
+C:\Users\dhaoui\Documents\Csharp\riadh-project\ExpressionsMatter\ExpressionsMatter\obj\Debug\net5.0\ExpressionsMatter.dll
+C:\Users\dhaoui\Documents\Csharp\riadh-project\ExpressionsMatter\ExpressionsMatter\obj\Debug\net5.0\ref\ExpressionsMatter.dll
+C:\Users\dhaoui\Documents\Csharp\riadh-project\ExpressionsMatter\ExpressionsMatter\obj\Debug\net5.0\ExpressionsMatter.pdb
+C:\Users\dhaoui\Documents\Csharp\riadh-project\ExpressionsMatter\ExpressionsMatter\obj\Debug\net5.0\ExpressionsMatter.genruntimeconfig.cache

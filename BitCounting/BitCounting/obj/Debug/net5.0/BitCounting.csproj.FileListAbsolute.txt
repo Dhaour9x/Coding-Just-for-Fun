@@ -1,0 +1,15 @@
+C:\Users\dhaoui\Documents\Csharp\riadh-project\BitCounting\BitCounting\bin\Debug\net5.0\BitCounting.exe
+C:\Users\dhaoui\Documents\Csharp\riadh-project\BitCounting\BitCounting\bin\Debug\net5.0\BitCounting.deps.json
+C:\Users\dhaoui\Documents\Csharp\riadh-project\BitCounting\BitCounting\bin\Debug\net5.0\BitCounting.runtimeconfig.json
+C:\Users\dhaoui\Documents\Csharp\riadh-project\BitCounting\BitCounting\bin\Debug\net5.0\BitCounting.runtimeconfig.dev.json
+C:\Users\dhaoui\Documents\Csharp\riadh-project\BitCounting\BitCounting\bin\Debug\net5.0\BitCounting.dll
+C:\Users\dhaoui\Documents\Csharp\riadh-project\BitCounting\BitCounting\bin\Debug\net5.0\ref\BitCounting.dll
+C:\Users\dhaoui\Documents\Csharp\riadh-project\BitCounting\BitCounting\bin\Debug\net5.0\BitCounting.pdb
+C:\Users\dhaoui\Documents\Csharp\riadh-project\BitCounting\BitCounting\obj\Debug\net5.0\BitCounting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dhaoui\Documents\Csharp\riadh-project\BitCounting\BitCounting\obj\Debug\net5.0\BitCounting.AssemblyInfoInputs.cache
+C:\Users\dhaoui\Documents\Csharp\riadh-project\BitCounting\BitCounting\obj\Debug\net5.0\BitCounting.AssemblyInfo.cs
+C:\Users\dhaoui\Documents\Csharp\riadh-project\BitCounting\BitCounting\obj\Debug\net5.0\BitCounting.csproj.CoreCompileInputs.cache
+C:\Users\dhaoui\Documents\Csharp\riadh-project\BitCounting\BitCounting\obj\Debug\net5.0\BitCounting.dll
+C:\Users\dhaoui\Documents\Csharp\riadh-project\BitCounting\BitCounting\obj\Debug\net5.0\ref\BitCounting.dll
+C:\Users\dhaoui\Documents\Csharp\riadh-project\BitCounting\BitCounting\obj\Debug\net5.0\BitCounting.pdb
+C:\Users\dhaoui\Documents\Csharp\riadh-project\BitCounting\BitCounting\obj\Debug\net5.0\BitCounting.genruntimeconfig.cache

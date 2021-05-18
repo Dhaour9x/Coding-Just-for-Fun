@@ -1,0 +1,16 @@
+C:\Users\dhaoui\Documents\Csharp\riadh-project\EqualSidesOfAnArray\EqualSidesOfAnArray\bin\Debug\net5.0\EqualSidesOfAnArray.exe
+C:\Users\dhaoui\Documents\Csharp\riadh-project\EqualSidesOfAnArray\EqualSidesOfAnArray\bin\Debug\net5.0\EqualSidesOfAnArray.deps.json
+C:\Users\dhaoui\Documents\Csharp\riadh-project\EqualSidesOfAnArray\EqualSidesOfAnArray\bin\Debug\net5.0\EqualSidesOfAnArray.runtimeconfig.json
+C:\Users\dhaoui\Documents\Csharp\riadh-project\EqualSidesOfAnArray\EqualSidesOfAnArray\bin\Debug\net5.0\EqualSidesOfAnArray.runtimeconfig.dev.json
+C:\Users\dhaoui\Documents\Csharp\riadh-project\EqualSidesOfAnArray\EqualSidesOfAnArray\bin\Debug\net5.0\EqualSidesOfAnArray.dll
+C:\Users\dhaoui\Documents\Csharp\riadh-project\EqualSidesOfAnArray\EqualSidesOfAnArray\bin\Debug\net5.0\ref\EqualSidesOfAnArray.dll
+C:\Users\dhaoui\Documents\Csharp\riadh-project\EqualSidesOfAnArray\EqualSidesOfAnArray\bin\Debug\net5.0\EqualSidesOfAnArray.pdb
+C:\Users\dhaoui\Documents\Csharp\riadh-project\EqualSidesOfAnArray\EqualSidesOfAnArray\obj\Debug\net5.0\EqualSidesOfAnArray.csprojAssemblyReference.cache
+C:\Users\dhaoui\Documents\Csharp\riadh-project\EqualSidesOfAnArray\EqualSidesOfAnArray\obj\Debug\net5.0\EqualSidesOfAnArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dhaoui\Documents\Csharp\riadh-project\EqualSidesOfAnArray\EqualSidesOfAnArray\obj\Debug\net5.0\EqualSidesOfAnArray.AssemblyInfoInputs.cache
+C:\Users\dhaoui\Documents\Csharp\riadh-project\EqualSidesOfAnArray\EqualSidesOfAnArray\obj\Debug\net5.0\EqualSidesOfAnArray.AssemblyInfo.cs
+C:\Users\dhaoui\Documents\Csharp\riadh-project\EqualSidesOfAnArray\EqualSidesOfAnArray\obj\Debug\net5.0\EqualSidesOfAnArray.csproj.CoreCompileInputs.cache
+C:\Users\dhaoui\Documents\Csharp\riadh-project\EqualSidesOfAnArray\EqualSidesOfAnArray\obj\Debug\net5.0\EqualSidesOfAnArray.dll
+C:\Users\dhaoui\Documents\Csharp\riadh-project\EqualSidesOfAnArray\EqualSidesOfAnArray\obj\Debug\net5.0\ref\EqualSidesOfAnArray.dll
+C:\Users\dhaoui\Documents\Csharp\riadh-project\EqualSidesOfAnArray\EqualSidesOfAnArray\obj\Debug\net5.0\EqualSidesOfAnArray.pdb
+C:\Users\dhaoui\Documents\Csharp\riadh-project\EqualSidesOfAnArray\EqualSidesOfAnArray\obj\Debug\net5.0\EqualSidesOfAnArray.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\dhaoui\Documents\Csharp\riadh-project\BreakCamelCase\BreakCamelCase\bin\Debug\net5.0\BreakCamelCase.exe
+C:\Users\dhaoui\Documents\Csharp\riadh-project\BreakCamelCase\BreakCamelCase\bin\Debug\net5.0\BreakCamelCase.deps.json
+C:\Users\dhaoui\Documents\Csharp\riadh-project\BreakCamelCase\BreakCamelCase\bin\Debug\net5.0\BreakCamelCase.runtimeconfig.json
+C:\Users\dhaoui\Documents\Csharp\riadh-project\BreakCamelCase\BreakCamelCase\bin\Debug\net5.0\BreakCamelCase.runtimeconfig.dev.json
+C:\Users\dhaoui\Documents\Csharp\riadh-project\BreakCamelCase\BreakCamelCase\bin\Debug\net5.0\BreakCamelCase.dll
+C:\Users\dhaoui\Documents\Csharp\riadh-project\BreakCamelCase\BreakCamelCase\bin\Debug\net5.0\ref\BreakCamelCase.dll
+C:\Users\dhaoui\Documents\Csharp\riadh-project\BreakCamelCase\BreakCamelCase\bin\Debug\net5.0\BreakCamelCase.pdb
+C:\Users\dhaoui\Documents\Csharp\riadh-project\BreakCamelCase\BreakCamelCase\obj\Debug\net5.0\BreakCamelCase.csprojAssemblyReference.cache
+C:\Users\dhaoui\Documents\Csharp\riadh-project\BreakCamelCase\BreakCamelCase\obj\Debug\net5.0\BreakCamelCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dhaoui\Documents\Csharp\riadh-project\BreakCamelCase\BreakCamelCase\obj\Debug\net5.0\BreakCamelCase.AssemblyInfoInputs.cache
+C:\Users\dhaoui\Documents\Csharp\riadh-project\BreakCamelCase\BreakCamelCase\obj\Debug\net5.0\BreakCamelCase.AssemblyInfo.cs
+C:\Users\dhaoui\Documents\Csharp\riadh-project\BreakCamelCase\BreakCamelCase\obj\Debug\net5.0\BreakCamelCase.csproj.CoreCompileInputs.cache
+C:\Users\dhaoui\Documents\Csharp\riadh-project\BreakCamelCase\BreakCamelCase\obj\Debug\net5.0\BreakCamelCase.dll
+C:\Users\dhaoui\Documents\Csharp\riadh-project\BreakCamelCase\BreakCamelCase\obj\Debug\net5.0\ref\BreakCamelCase.dll
+C:\Users\dhaoui\Documents\Csharp\riadh-project\BreakCamelCase\BreakCamelCase\obj\Debug\net5.0\BreakCamelCase.pdb
+C:\Users\dhaoui\Documents\Csharp\riadh-project\BreakCamelCase\BreakCamelCase\obj\Debug\net5.0\BreakCamelCase.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ExpressionsMatter/1.0.0": {
+        "runtime": {
+          "ExpressionsMatter.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExpressionsMatter/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
